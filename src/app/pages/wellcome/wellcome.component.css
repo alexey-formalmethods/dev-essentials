@@ -1,0 +1,18 @@
+.container {
+	display: flex;
+	flex-direction: column;
+	justify-content: center; /* Centers horizontally */
+	align-items: center; /* Centers vertically */
+	height: 100vh; /* Ensures the container takes up the full viewport height */
+}
+.content {
+}
+.info-container {
+	display: flex;
+	justify-content:space-between;
+	align-items: center; /* Centers vertically */
+	margin-top: 30px;
+	width: 380px;
+}
+.info {
+}
